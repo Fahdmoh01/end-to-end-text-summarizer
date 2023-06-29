@@ -2,6 +2,7 @@
 
 
 ## Project Workflows
+### You follow this work for each stage of the project 
 
 1. Update Config.yamle file
 2. Update params.yml 
